@@ -1,0 +1,4 @@
+This game was a project I made for a game developement class that I decided would be fun to try. The teacher loved it, and I recieve a perfect score, as well as an A+ in the class. However there may be a few bugs, as this was the first game I ever attempted to make.
+
+Press "INFO"
+when starting game to see controlls/details.
